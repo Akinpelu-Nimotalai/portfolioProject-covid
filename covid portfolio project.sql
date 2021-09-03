@@ -1,4 +1,8 @@
-select *
+--/*
+--covid 19 Data Exploration
+--*/
+
+8elect *
 from [portfolio project]..covidDeaths
 where continent is not null
 order by 3,4
